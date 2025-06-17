@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PagerBullet">
+        <attr name="bulletColor" format="color" />
+        <attr name="bulletSelectedColor" format="color" />
+        <attr name="bulletSize" format="dimension" />
+        <attr name="bulletSelectedSize" format="dimension" />
+        <attr name="panelHeightInDp" format="string" />
+    </declare-styleable>
+</resources>
